@@ -1,0 +1,28 @@
+.sign-in--body {
+  display: flex;
+  flex-direction: column;
+}
+
+.sign-in--title {
+  margin: 32px 0px;
+}
+
+.sign-in--field {
+  display: flex;
+  flex-direction: column;
+  margin: 8px 0px;
+}
+
+.sign-in--input {
+  padding: 6px 4px;
+}
+
+.sign-in--error {
+  margin-top: 4px;
+  color: red;
+  font-size: x-small;
+}
+
+.sign-in--button {
+  margin-top: 24px;
+}
